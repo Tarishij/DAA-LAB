@@ -1,3 +1,7 @@
+//main graph represented via adj list
+//its reverse graph represented via adj matrix
+//done using stack, where vertex with least finishing time is stored at the bottom of the staack
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
